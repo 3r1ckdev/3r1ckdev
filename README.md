@@ -50,11 +50,11 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;¡Conctactame!
 
 <p align="center">
 <a href="developer.erick.github@gmail.com"><img src="https://img.shields.io/badge/-developer.erick.github@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lic.erick.romero/"><img src="https://img.shields.io/badge/-@lic.erick.romero_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev.erick.romero/"><img src="https://img.shields.io/badge/-@dev.erick.romero_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 
