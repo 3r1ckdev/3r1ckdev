@@ -54,7 +54,7 @@
 
 <p align="center">
 <a href="developer.erick.github@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/dev.erick.romero/"><img src="https://img.shields.io/badge/-@Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev.erick.romero/"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 
